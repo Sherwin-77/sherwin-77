@@ -8,7 +8,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=sherwin-77&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=sherwin-77&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sherwin-77&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent" />
 </picture>
 
 <picture>
@@ -20,7 +20,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sherwin-77&size_weight=0.5&count_weight=0.5&theme=buefy"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherwin-77&size_weight=0.5&count_weight=0.5&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherwin-77&size_weight=0.5&count_weight=0.5&theme=transparent" />
 </picture>
 
 ---
