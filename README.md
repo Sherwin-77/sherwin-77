@@ -1,6 +1,6 @@
 # Hi, I'm Sherwin 👋
 
-Back‑end engineer based in Indonesia. I enjoy building APIs, automating things, and solving problems. Still learning mobile development and exploring about cybersecurity.
+Back‑end engineer based in Indonesia. I enjoy building APIs, automating things, and solving problems. Still learning to keep up with tech
 
 Knows some language such as PHP, Python, Javscript, Typescript, Go, bit of Dart and Kotlin
 
